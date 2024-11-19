@@ -1,0 +1,1 @@
+{'name': 'Mobina Mohammadiuon', 'age': 21, 'id': 19, 'cities': ['Tehran', 'Boston', 'Shahrkord'], 'friends': [{'firstName': 'Elaheh', 'lastName': 'HosseinAbadi', 'age': 21, 'id': 0}, {'firstName': 'Nika', 'lastName': 'Sadidi', 'age': 22, 'id': 1}, {'firstName': 'Azin', 'lastName': 'Esfandiari', 'age': 25, 'id': 2}]}

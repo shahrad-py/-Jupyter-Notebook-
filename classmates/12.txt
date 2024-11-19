@@ -1,0 +1,1 @@
+{'id': 12, 'name': 'Sina', 'age': 21, 'email': 'sina.sherkat@example.com', 'location': 'Kish'}

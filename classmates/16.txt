@@ -1,0 +1,1 @@
+{'name': {'firstname': 'Hesam', 'lastName': 'Fatemizadeh'}, 'age': 21, 'cities': ['TEHRAN', 'KISH', 'ABADAN'], 'friends': [{'firstname': 'mariam', 'lastname': 'shojaodin', 'age': 21, 'id': '100'}, {'firstname': 'abbas', 'lastname': 'ranjbar', 'age': 25, 'id': '101'}, {'firstname': 'ali', 'lastname': 'niazi', 'age': 23, 'id': 102}], 'id': 16}
